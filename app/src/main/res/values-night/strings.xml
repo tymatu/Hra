@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="results">Výsledky</string>
+    <string name="castleimage">castleImage</string>
+    <string name="start">Začít hru</string>
+    <string name="startGame">Začít hrát</string>
+    <string name="nameEdit">Hrdina</string>
+    <string name="heroName">Jméno hráče</string>
+    <string name="text">text</string>
+    <string name="hrdina">Hrdina</string>
+    <string name="west">west</string>
+    <string name="east">east</string>
+    <string name="center">center</string>
+    <string name="southwest">southwest</string>
+    <string name="south">south</string>
+    <string name="southeast">southeast</string>
+    <string name="row">row</string>
+</resources>

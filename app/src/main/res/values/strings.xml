@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BMTA</string>
+    <string name="results">Výsledky</string>
+    <string name="newGame">Nová hra</string>
+    <string name="end">Konec</string>
+    <string name="castleimage">castleImage</string>
+    <string name="start">Začít hru</string>
+    <string name="startGame">Začít hrát</string>
+    <string name="nameEdit">Hrdina</string>
+    <string name="heroName">Jméno hráče</string>
+    <string name="text">text</string>
+    <string name="hrdina">Hrdina</string>
+    <string name="score">0</string>
+    <string name="health">100.0</string>
+    <string name="attack">0.0</string>
+    <string name="defence">0.0</string>
+    <string name="healing">0.0</string>
+    <string name="kills">0.0</string>
+    <string name="northeast">northeast</string>
+    <string name="north">north</string>
+    <string name="northwest">TODO</string>
+    <string name="west">west</string>
+    <string name="east">east</string>
+    <string name="center">center</string>
+    <string name="southwest">southwest</string>
+    <string name="south">south</string>
+    <string name="southeast">southeast</string>
+    <string name="row">row</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_new_game">NewGameActivity</string>
+</resources>
